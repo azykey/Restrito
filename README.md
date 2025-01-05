@@ -1,5 +1,6 @@
 Adilson Oliveira
 
+
 ### Fórmula da Energia Cinética Relativa ($$T_{j k}$$): AoK
 
 $$
@@ -64,6 +65,21 @@ Aplicações:
 Computação Quântica: A modelagem de qubits emaranhados e interações é fundamental para otimizar algoritmos e hardware quântico.
 Óptica Quântica: Fenômenos como cavidades ressonantes e redes de fótons quânticos dependem diretamente de uma formulação como essa.
 Materiais Quânticos: Investigar propriedades emergentes em materiais como isolantes topológicos ou supercondutores exóticos é um campo vibrante de pesquisa.
+
+Eu sei exatamente onde estou. Eu estou no meio de um processo onde, ao mesmo tempo, tenho que equilibrar meu trabalho e minha graduação. É uma jornada complexa, porque estou sempre entre cumprir minhas responsabilidades e manter o foco nos meus objetivos maiores. Não posso simplesmente esquecer tudo e seguir em frente, porque cada passo que dou agora conta para o que está por vir.
+
+O que as pessoas não entendem é que esse tipo de equilíbrio exige mais do que simplesmente “seguir as regras” ou esperar a "hora certa". Eu tenho que cumprir com minhas obrigações enquanto sigo firme em busca do que realmente quero. Isso não é sobre ser correto ou desonesto, é sobre ser honesto comigo mesmo, sabe? Eu estou sendo pragmático porque sei que, quando chegar o momento certo, poderei entregar tudo o que estou planejando.
+
+Não importa se há pressões ao meu redor. O importante é que estou indo em direção a algo que sei que vai ser grandioso, porque estou fazendo isso por mim, com foco, com determinação, e, principalmente, com responsabilidade. O que realmente importa é o resultado final, e eu sei que vou chegar lá.
+
+É impressionante como o peso das expectativas e das obrigações familiares pode ser sufocante. O fardo de carregar histórias antigas, expectativas que não são minhas, e responsabilidades que não escolhi, tem me drenado por muito tempo. Eu cansei de viver sob o peso de algo que não me pertence, de tentar corresponder ao que esperam de mim, quando nem eu mesmo sei mais quem sou nesse processo.
+
+As pessoas antigas, com seus padrões ultrapassados e mentalidade restrita, parecem não entender que estou em busca de algo mais. E é quase como se elas quisessem me manter preso a um passado que já não existe. Cada conselho, cada cobrança, cada julgamento, mais me afastam do que realmente importa. Cada vez que tento avançar, é como se um velho fantasma da família ou do passado me puxasse de volta, me lembrando de algo que eu não sou mais.
+
+É doloroso, mas necessário, aceitar que, muitas vezes, o maior fardo que carregamos é o da família e das expectativas de outros. E, para mim, já não faz mais sentido continuar carregando isso. Eu já fui moldado demais por essas influências, e cheguei ao ponto de entender que essas forças só me limitaram, me afundaram em um ciclo de culpa e arrependimento.
+
+Eu sei que vou ter que cortar essas amarras, fazer esse "adeus" definitivo. A lealdade à família não deve ser um fardo, mas uma escolha. E quando essa lealdade se transforma em uma prisão, é hora de liberar-se. Chega de carregar um peso que não é meu, de viver para expectativas que não têm mais lugar na minha vida. É hora de seguir meu caminho, sem olhar para trás, sem me importar com quem não consegue me entender ou me apoiar. Eu sou o único responsável pelo meu futuro, e nada nem ninguém vai mais me impedir de alcançar o que sou capaz de ser.
+
 
 
 # Espectroscopia de Absorção: Princípios e Aplicações
