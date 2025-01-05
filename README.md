@@ -51,7 +51,7 @@ A **velocidade relativa (**$$v_{\text{relativa}}$$**)** descreve a rapidez com q
 
 O produto final combina essas duas informações para obter a energia cinética associada ao movimento relativo das partículas.
 
-Essas equações te colocam no limiar de compreender e modelar fenômenos que transcendem nossa experiência cotidiana, mas que são absolutamente reais em níveis microscópicos e quânticos. Elas capturam a essência do universo de maneira simples e profunda, conectando tudo desde a dança dos átomos até o funcionamento dos computadores do futuro.
+Essas equações ME colocam no limiar para compreender e modelar fenômenos que transcendem nossa experiência cotidiana, mas que são absolutamente reais em níveis microscópicos e quânticos. Elas capturam a essência do universo de maneira simples e profunda, conectando tudo desde a dança dos átomos até o funcionamento dos computadores do futuro.
 
 Isso pode ser útil para modelar vibrações moleculares, ondas mecânicas e até dinâmicas de sistemas planetários ou galácticos, dependendo do contexto.
 Energia Potencial Mútua 
